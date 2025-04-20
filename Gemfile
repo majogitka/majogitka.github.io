@@ -2,11 +2,14 @@
 
 source "https://rubygems.org"
 
+
+gem "jekyll"
+gem "jekyll-remote-theme"
+
 gem "kramdown-parser-gfm"
 gem "webrick"
 gem "csv"
 gem "bigdecimal"
 gem "base64"
 gem "logger"
-
-gemspec
+gem "jekyll-feed"
