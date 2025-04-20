@@ -1,0 +1,1 @@
+# majogitka.github.io
